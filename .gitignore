@@ -1,0 +1,16 @@
+# Environnements
+venv/
+__pycache__/
+
+# Données volumineuses
+*.parquet
+*.csv
+
+# Logs
+logs/*.log
+
+# Secrets
+.env
+
+# OS
+.DS_Store
